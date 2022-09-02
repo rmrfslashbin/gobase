@@ -1,0 +1,2 @@
+# gobase
+Skeleton Golang project

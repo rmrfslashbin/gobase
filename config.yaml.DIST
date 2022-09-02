@@ -1,0 +1,2 @@
+dumpMessage: "Hello, this is the dump cmd"
+loglevel: info
